@@ -1,0 +1,53 @@
+{
+  "items": {
+    "Tevent's Dagger": "Dagas de Tevent",
+    "Tevent's Sword": "Espada de Tevent",
+    "Tevent's Greatsword": "Mandoble de Tevent",
+    "Tevent's Staff": "Báculo de Tevent",
+    "Tevent's Wand": "Vara de Tevent",
+    "Tevent's Bow": "Arco de Tevent",
+    "Tevent's Crossbow": "Ballesta de Tevent",
+    "Tevent's Ashen Abyss": "Abismo cenizo de Tevent",
+    "Resistance Dagger": "Dagas de la Resistencia",
+    "Resistance Sword": "Espada de la Resistencia",
+    "Resistance Greatsword": "Mandoble de la Resistencia",
+    "Resistance Staff": "Báculo de la Resistencia",
+    "Resistance Wand": "Vara de la Resistencia",
+    "Resistance Bow": "Arco de la Resistencia",
+    "Resistance Crossbow": "Ballesta de la Resistencia",
+    "Health Potion": "Poción de Salud",
+    "Mana Potion": "Poción de Maná",
+    "Blessed Weapon Enhancement Stone": "Piedra de Mejora de Arma Bendecida",
+    "Blessed Armor Enhancement Stone": "Piedra de Mejora de Armadura Bendecida",
+    "Sword": "Espada",
+    "Greatsword": "Mandoble",
+    "Dagger": "Daga",
+    "Staff": "Báculo",
+    "Wand": "Vara",
+    "Bow": "Arco",
+    "Crossbow": "Ballesta",
+    "Shield": "Escudo",
+    "Helmet": "Casco",
+    "Armor": "Armadura",
+    "Gloves": "Guantes",
+    "Boots": "Botas"
+  },
+  "categories": {
+    "weapon": "Arma",
+    "armor": "Armadura",
+    "accessory": "Accesorio",
+    "consumable": "Consumible",
+    "extract": "Extracto",
+    "fragment": "Fragmento",
+    "material": "Material",
+    "currency": "Moneda"
+  },
+  "_metadata": {
+    "version": "1.0.0",
+    "last_updated": "2025-02-17",
+    "total_translations": 31,
+    "language": "es-ES",
+    "contributors": [],
+    "note": "Este archivo puede ser editado por colaboradores para agregar más traducciones. Por favor mantén el formato JSON válido y usa encoding UTF-8."
+  }
+}
