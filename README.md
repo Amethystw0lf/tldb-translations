@@ -66,16 +66,16 @@ Ejemplos:
 
 (Aún sin traducir)
 
-"Tevent’s Grasp of Withering":
-"Tevent’s Grasp of Withering":
-"Tevent’s Grasp of Withering":
+"Tevent’s Grasp of Withering":  
+"Tevent’s Grasp of Withering":  
+"Tevent’s Grasp of Withering":  
 "Tevent’s Grasp of Withering":
 
 (Traducción completa)
 
-"Tevent’s Grasp of Withering": "Agarre marchito de Tevent", 
-"Tevent’s Grasp of Withering": "Agarre marchito de Tevent", 
-"Tevent’s Grasp of Withering": "Agarre marchito de Tevent", 
+"Tevent’s Grasp of Withering": "Agarre marchito de Tevent",   
+"Tevent’s Grasp of Withering": "Agarre marchito de Tevent",   
+"Tevent’s Grasp of Withering": "Agarre marchito de Tevent",   
 "Tevent’s Grasp of Withering": "Agarre marchito de Tevent", 
 
 
