@@ -50,6 +50,37 @@ El archivo `translations.json` tiene esta estructura:
 ```
 
 ---
+Descripción: 
+
+Lista de objetos  organizados por orden alfabético, dividido en dos(2) bloques; 
+Los objetos que están en el primer bloque (Aún sin traducir) estarán solamente en inglés.
+Los objetos que están en el segundo bloque (Traducción completa) estarán en ingles y su traducción al español justo al lado. 
+
+
+¿Cómo usar?
+
+El nombre en ingles a la izquierda y la traducción a la derecha en formato JSON listo para copiar y pegar en el archivo de las traducciones del bot. 
+
+Ejemplos:
+
+
+(Aún sin traducir)
+
+"Tevent’s Grasp of Withering":  
+"Tevent’s Grasp of Withering":  
+"Tevent’s Grasp of Withering":  
+"Tevent’s Grasp of Withering":
+
+(Traducción completa)
+
+"Tevent’s Grasp of Withering": "Agarre marchito de Tevent",   
+"Tevent’s Grasp of Withering": "Agarre marchito de Tevent",   
+"Tevent’s Grasp of Withering": "Agarre marchito de Tevent",   
+"Tevent’s Grasp of Withering": "Agarre marchito de Tevent", 
+
+
+Nota: 
+Los objetos ya traducidos permaneceran en el mismo archivo con fines de documentación y base de datos
 
 ## ✅ Reglas de Traducción
 
